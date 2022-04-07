@@ -7,6 +7,7 @@
 - [AAleksandros](https://github.com/AAleksandros)
 - [Orlando Edwards Jr](https://github.com/OREdwardsJr)
 - [Om Bhosale](https://github.com/OmegaCoding5505)
+- [Aniket](https://github.com/aniket100)
 - [Somesh Kumar Thakur](https://github.com/someshthakur90)
 - [Alireza Jahandoost](https://github.com/alireza-jahandoost)
 - [Oyekola Toheeb](https://github.com/To-heeb)
